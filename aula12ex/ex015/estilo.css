@@ -17,6 +17,15 @@ section {
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.322);
 }
 
+div#res img {
+    padding-top: 10px;
+    height: 200px;
+    width: 200px;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
 footer {
     color: whitesmoke;
     text-align: center;
